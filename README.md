@@ -37,10 +37,7 @@ Colección de herramientas especializadas para la detección, análisis y neutra
 2. **Escaneo Weebly** - Detección de sitios finales en redirecciones Weebly  
    [![Weebly Tracker](https://img.shields.io/badge/Repo-Redirect_Tracker-blue)](https://github.com/0CTYSA/Redirect-Traker-Weebly-)
 
-### 👤 Herramientas Sociales
-
-1. **ID Facebook** - Detección de IDs de perfiles de Facebook  
-   [![FB ID Lookup](https://img.shields.io/badge/Repo-FB__ID__Lookup-blue)](https://github.com/0CTYSA/FB-ID-Lookup)
+### 👤 Herramienta Facebook ID _(Próximamente)_
 
 ## 🚀 Cómo Contribuir
 
