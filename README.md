@@ -18,6 +18,9 @@ Colección de herramientas especializadas para la detección, análisis y neutra
 4. **RiskIQ Hunter** (Deprecado) - Obtención de información de dominios (anteriormente RiskIQ)  
    [![RiskIQ](https://img.shields.io/badge/Repo-RiskIQ-blue)](https://github.com/0CTYSA/RiskIQ)
 
+5. **Spoofing_Analyze** - Analizador de Headers de Correo Electrónico  
+   [![SpoofingAnalyze](https://img.shields.io/badge/Repo-SpoofingAnalyze-blue)](https://github.com/0CTYSA/Spoofing_Analyze)
+
 ### 🔗 Herramientas de URL
 
 1. **Decode Google** - Decodificación de URLs ofuscadas por Google  
