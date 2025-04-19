@@ -24,7 +24,7 @@ Colección de herramientas especializadas para la detección, análisis y neutra
 6. **Lookup_Canonical_Name** - Identificacion de dominios canonicos o relacionados a un sitio web o IP.  
    [![Lookup_Canonical_Name](https://img.shields.io/badge/Repo-Lookup_Canonical_Name-blue)](https://github.com/0CTYSA/Lookup_Canonical_Name)
 
-7. **Rogue-DNS_validator** - Detector de posibles ataques de pharming mediante la comparación entre resoluciones DNS.
+7. **Rogue-DNS_validator** - Detector de posibles ataques de pharming mediante la comparación entre resoluciones DNS.  
    [![Rogue_DNS_validator](https://img.shields.io/badge/Repo-Rogue_DNS_validator-blue)](https://github.com/0CTYSA/Rogue-DNS_validator)
 
 8. **Censys_Api_H_IP** - Herramienta CLI para consulta avanzada de información de IPs usando Censys.  
