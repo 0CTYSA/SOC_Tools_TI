@@ -21,6 +21,15 @@ Colección de herramientas especializadas para la detección, análisis y neutra
 5. **Spoofing_Analyze** - Analizador de Headers de Correo Electrónico  
    [![SpoofingAnalyze](https://img.shields.io/badge/Repo-SpoofingAnalyze-blue)](https://github.com/0CTYSA/Spoofing_Analyze)
 
+6. **Lookup_Canonical_Name** - Identificacion de dominios canonicos o relacionados a un sitio web o IP.  
+   [![Lookup_Canonical_Name](https://img.shields.io/badge/Repo-Lookup_Canonical_Name-blue)](https://github.com/0CTYSA/Lookup_Canonical_Name)
+
+7. **Rogue-DNS_validator** - Detector de posibles ataques de pharming mediante la comparación entre resoluciones DNS.
+   [![Rogue_DNS_validator](https://img.shields.io/badge/Repo-Rogue_DNS_validator-blue)](https://github.com/0CTYSA/Rogue-DNS_validator)
+
+8. **Censys_Api_H_IP** - Herramienta CLI para consulta avanzada de información de IPs usando Censys.  
+   [![Censys_Api_H_IP](https://img.shields.io/badge/Repo-Censys_Api_H_IP-blue)](https://github.com/0CTYSA/Censys_Api_H_IP)
+
 ### 🔗 Herramientas de URL
 
 1. **Decode Google** - Decodificación de URLs ofuscadas por Google  
@@ -31,6 +40,9 @@ Colección de herramientas especializadas para la detección, análisis y neutra
 
 3. **Encode/Decode URLs** - Herramienta para ofuscar y decodificar URLs  
    [![EncodeURLs](https://img.shields.io/badge/Repo-EncodeURLs-blue)](https://github.com/0CTYSA/EncodeURLs)
+
+4. **Extrct-PHT** - Extrae las rutas (paths) de las URLs y organizarlas por empresa  
+   [![Extrct-PHT](https://img.shields.io/badge/Repo-Extrct_PHT-blue)](https://github.com/0CTYSA/Extrct-PHT)
 
 ### 🎣 Anti-Phishing
 
